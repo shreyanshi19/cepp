@@ -28,5 +28,5 @@ int main()
 		 break;
 	 }
 	 printf("%d%d%d",i,j,k);
-getch();
+retur 0;
 }
